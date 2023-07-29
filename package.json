@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.1"
+  },
+  "name": "quick-alpha-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamp2001/Quick_Alpha_Assignment.git"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamp2001/Quick_Alpha_Assignment/issues"
+  },
+  "homepage": "https://github.com/shivamp2001/Quick_Alpha_Assignment#readme",
+  "description": ""
+}
